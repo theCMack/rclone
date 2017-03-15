@@ -1,2 +1,2 @@
 # rclone
-collection of rclone related scrips
+collection of rclone related scripts
